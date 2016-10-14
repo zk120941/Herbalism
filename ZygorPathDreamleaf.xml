@@ -1,0 +1,69 @@
+<HBProfile>
+ 	<Name>Dreamleaf Zygor Path, Made by Verbanski</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>1001</MaxLevel>
+
+	<MinDurability>0.2</MinDurability>
+	<MinFreeBagSlots>3</MinFreeBagSlots>
+
+	<MailGrey>false</MailGrey>
+	<MailWhite>false</MailWhite>
+	<MailGreen>true</MailGreen>
+	<MailBlue>true</MailBlue>
+	<MailPurple>true</MailPurple>
+
+	<SellGrey>true</SellGrey>
+   	<SellWhite>true</SellWhite>
+   	<SellGreen>false</SellGreen>
+   	<SellBlue>false</SellBlue>
+   	<SellPurple>false</SellPurple>
+	
+	<AvoidMobs>>
+		<Mob id="110896" name="ancient-annihilator"/>
+    </AvoidMobs>
+	
+	<Vendors>
+        <Vendor Name="Callista Swiftglaive" Entry="93464" Type="Repair" Nav="Fly" X="2319.413" Y="6611.955" Z="140.3522" />
+	</Vendors>
+	
+<Hotspots>
+<Hotspot X="2404.963" Y="6515.082" Z="151.0234" />
+<Hotspot X="2551.811" Y="6458.515" Z="165.97" />
+<Hotspot X="2644.831" Y="6454.82" Z="174.6236" />
+<Hotspot X="2710.716" Y="6521.498" Z="184.6345" />
+<Hotspot X="2774.352" Y="6527.393" Z="197.7606" />
+<Hotspot X="2837.186" Y="6507.058" Z="206.1138" />
+<Hotspot X="2870.164" Y="6531.37" Z="206.9489" />
+<Hotspot X="2936.943" Y="6555.264" Z="207.78" />
+<Hotspot X="3012.515" Y="6581.391" Z="206.7429" />
+<Hotspot X="3106.21" Y="6621.268" Z="180.8844" />
+<Hotspot X="3102.366" Y="6758.728" Z="134.5268" />
+<Hotspot X="3070.488" Y="6794.166" Z="121.5199" />
+<Hotspot X="3032.416" Y="6839.223" Z="102.5682" />
+<Hotspot X="3008.316" Y="6918.728" Z="78.33268" />
+<Hotspot X="2959.279" Y="6994.831" Z="54.93167" />
+<Hotspot X="2869.661" Y="7089.935" Z="24.31589" />
+<Hotspot X="2830.439" Y="7131.081" Z="15.60159" />
+<Hotspot X="2808.254" Y="7154.404" Z="14.34525" />
+<Hotspot X="2748.291" Y="7170.584" Z="31.02595" />
+<Hotspot X="2698.706" Y="7184.254" Z="46.7334" />
+<Hotspot X="2671.218" Y="7139.655" Z="90.96949" />
+<Hotspot X="2622.552" Y="7138.593" Z="114.9669" />
+<Hotspot X="2595.135" Y="7116.41" Z="127.2645" />
+<Hotspot X="2444.702" Y="7094.62" Z="73.10014" />
+<Hotspot X="2368.039" Y="7111.367" Z="68.71384" />
+<Hotspot X="2310.198" Y="7122.85" Z="72.37971" />
+<Hotspot X="2280.774" Y="7124.553" Z="71.4319" />
+<Hotspot X="2261.589" Y="7122.103" Z="67.9975" />
+<Hotspot X="2242.051" Y="7119.384" Z="61.58647" />
+<Hotspot X="2194.707" Y="7103.439" Z="58.13715" />
+<Hotspot X="2164.85" Y="7050.107" Z="66.91453" />
+<Hotspot X="2112.644" Y="6940.915" Z="87.30972" />
+<Hotspot X="2072.323" Y="6843.311" Z="90.41748" />
+<Hotspot X="2042.411" Y="6757.421" Z="100.5699" />
+<Hotspot X="2104.528" Y="6685.817" Z="108.7035" />
+<Hotspot X="2095.406" Y="6503.563" Z="116.8201" />
+<Hotspot X="2171.965" Y="6420.405" Z="131.2088" />
+<Hotspot X="2305.385" Y="6447.636" Z="145.1771" />
+</Hotspots>
+</HBProfile>
