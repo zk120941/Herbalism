@@ -18,10 +18,14 @@
    	<SellBlue>false</SellBlue>
    	<SellPurple>false</SellPurple>
 	
-	<AvoidMobs>>
+	<AvoidMobs>
 		<Mob id="99792" name="elfbane"/>
 		<Mob id="104220" name="starving-ettin"/>
     </AvoidMobs>
+	
+	<Blackspots>
+	<Blackspot X="1522.2" Y="5406.738" Z="68.64716" Radius="20" />
+	</Blackspots>
 	
 	<Vendors>
         <Vendor Name="Callista Swiftglaive" Entry="93464" Type="Repair" Nav="Fly" X="2319.413" Y="6611.955" Z="140.3522" />
