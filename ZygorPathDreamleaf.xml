@@ -20,7 +20,7 @@
 	
 	<AvoidMobs>>
 		<Mob id="110896" name="ancient-annihilator"/>
-    </AvoidMobs>
+    	</AvoidMobs>
 	
 	<Vendors>
         <Vendor Name="Callista Swiftglaive" Entry="93464" Type="Repair" Nav="Fly" X="2319.413" Y="6611.955" Z="140.3522" />
