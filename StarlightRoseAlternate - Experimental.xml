@@ -21,6 +21,7 @@
 	<AvoidMobs>>
 		<Mob id="99792" name="elfbane"/>
 		<Mob id="104220" name="starving-ettin"/>
+		<Mob id="103841" name="shadowquill"/>
     </AvoidMobs>
 	
 	<Vendors>
