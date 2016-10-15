@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Legion Herbalism Farm}
+  <content>
+# Legion Herbalism Farm
 This is a set of Herbalism farming for Honorbuddy using Gatherbuddy2. Link to the main thread: https://www.thebuddyforum.com/honorbuddy-forum/gatherbuddy-2-profiles/274752-starlight-rose-zygor-path.html#post2321946
 ## How to use
 1. Download the desired profile.
@@ -9,18 +9,10 @@ This is a set of Herbalism farming for Honorbuddy using Gatherbuddy2. Link to th
 4. Choose to load a profile from a file, and select the downloaded profile.
 
 Note: Be sure to set the Sky Golem as the ground and flying mount if you would like to use it for gathering.
-## Usage
-TODO: Write usage instructions
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
 ## Changes
 View the changelog for detailed changes.
 ## Credits
-Credit: Verbanski
+Main author: Verbanski
 ## License
 Copyright (c) 2016 Verbanski
 
