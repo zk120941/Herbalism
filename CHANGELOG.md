@@ -8,7 +8,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Fix
 - Fixed issue with bot-like behavior in the alternate Starlight Rose path.
 - Added avoidance for the rare mob Shadowquill.
-- Added blackspot to avoid rare mob Elfbane
+- Added blackspot in Zygor Path to avoid rare mob Elfbane
+- Added blackspots in Zygor Path to prevent issues with pathing.
 
 ## [0.0.2] - 2016-10-14
 ### Added
