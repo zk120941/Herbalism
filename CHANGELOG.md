@@ -7,12 +7,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [0.0.4] - 2016-10-16
 ### Added
 - Added alternate Starlight Rose path #2.
-<<<<<<< HEAD
 - Organized herbs into folders.
 - Added Zygor Aethril Path.
-=======
-- Organized farming in folders.
->>>>>>> origin/master
 
 ## [0.0.3] - 2016-10-14
 ### Fix
