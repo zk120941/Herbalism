@@ -6,7 +6,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [0.0.4] - 2016-10-16
 ### Added
-- Added alternate Starlight Rose path #2
+- Added alternate Starlight Rose path #2.
+- Organized farming in folders.
 
 ## [0.0.3] - 2016-10-14
 ### Fix
