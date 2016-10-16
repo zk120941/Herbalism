@@ -1,0 +1,82 @@
+<HBProfile>
+ 	<Name> Starlight Rose Alternate Route 2, Made by Verbanski</Name>
+	<MinLevel>1</MinLevel>
+	<MaxLevel>1001</MaxLevel>
+
+	<MinDurability>0.2</MinDurability>
+	<MinFreeBagSlots>3</MinFreeBagSlots>
+
+	<MailGrey>false</MailGrey>
+	<MailWhite>false</MailWhite>
+	<MailGreen>true</MailGreen>
+	<MailBlue>true</MailBlue>
+	<MailPurple>true</MailPurple>
+
+	<SellGrey>true</SellGrey>
+   	<SellWhite>true</SellWhite>
+   	<SellGreen>false</SellGreen>
+   	<SellBlue>false</SellBlue>
+   	<SellPurple>false</SellPurple>
+	
+	<AvoidMobs>>
+		<Mob id="105547" name="rauren"/>
+		<Mob id="104220" name="starving-ettin"/>
+		<Mob id="103841" name="shadowquill"/>
+		<Mob id="112497" name="maia-the-white"/>
+		<Mob id="104226" name="gloomfang"/>
+    </AvoidMobs>
+	
+	<Vendors>
+        <Vendor Name="Callista Swiftglaive" Entry="93464" Type="Repair" Nav="Fly" X="2319.413" Y="6611.955" Z="140.3522" />
+	</Vendors>
+	
+	<Blackspots>
+		<Blackspot X="2227.924" Y="4937.041" Z="145.3257" Radius="3" />
+		<Blackspot X="2250.327" Y="5193.954" Z="109.2624" Radius="5" />
+		<Blackspot X="2453.805" Y="5155.553" Z="112.4473" Radius="3" />
+	</Blackspots>
+	
+<Hotspots>
+	<Hotspot X="2239.11" Y="5258.902" Z="115.8235" />
+	<Hotspot X="2224.204" Y="5221.491" Z="114.4143" />
+	<Hotspot X="2226.094" Y="5180.602" Z="116.7623" />
+	<Hotspot X="2235.838" Y="5141.993" Z="120.7672" />
+	<Hotspot X="2238.68" Y="5102.629" Z="128.4489" />
+	<Hotspot X="2231.473" Y="5063.693" Z="135.7641" />
+	<Hotspot X="2232.359" Y="5022.885" Z="136.0409" />
+	<Hotspot X="2262.84" Y="4996.595" Z="137.5982" />
+	<Hotspot X="2293.498" Y="4970.568" Z="132.362" />
+	<Hotspot X="2323.71" Y="4943.852" Z="126.9087" />
+	<Hotspot X="2362.418" Y="4953.658" Z="122.1253" />
+	<Hotspot X="2398.724" Y="4970.936" Z="123.492" />
+	<Hotspot X="2438.908" Y="4971.1" Z="118.6113" />
+	<Hotspot X="2478.614" Y="4978.306" Z="121.7269" />
+	<Hotspot X="2515.675" Y="4989.338" Z="110.5219" />
+	<Hotspot X="2513.619" Y="5029.202" Z="102.3363" />
+	<Hotspot X="2515.779" Y="5069.638" Z="103.6687" />
+	<Hotspot X="2509.158" Y="5109.024" Z="106.46" />
+	<Hotspot X="2478.259" Y="5135.38" Z="107.5851" />
+	<Hotspot X="2452.325" Y="5166.408" Z="107.5972" />
+	<Hotspot X="2445.054" Y="5206.004" Z="104.0136" />
+	<Hotspot X="2558.212" Y="5167.246" Z="113.1495" />
+	<Hotspot X="2567.875" Y="5201.784" Z="95.23893" />
+	<Hotspot X="2546.472" Y="5235.513" Z="99.22775" />
+	<Hotspot X="2525.861" Y="5269.965" Z="95.38085" />
+	<Hotspot X="2493.079" Y="5297.125" Z="98.75308" />
+	<Hotspot X="2471.661" Y="5330.662" Z="105.7688" />
+	<Hotspot X="2466.218" Y="5368.222" Z="119.6763" />
+	<Hotspot X="2454.519" Y="5404.304" Z="132.5377" />
+	<Hotspot X="2437.153" Y="5440.406" Z="133.5188" />
+	<Hotspot X="2409.425" Y="5470.067" Z="135.9341" />
+	<Hotspot X="2379.906" Y="5497.46" Z="136.6166" />
+	<Hotspot X="2350.515" Y="5522.836" Z="124.7171" />
+	<Hotspot X="2314.804" Y="5538.701" Z="112.5341" />
+	<Hotspot X="2277.487" Y="5544.226" Z="98.62748" />
+	<Hotspot X="2250.151" Y="5514.574" Z="98.11555" />
+	<Hotspot X="2230.937" Y="5478.89" Z="97.51852" />
+	<Hotspot X="2218.28" Y="5440.57" Z="98.11407" />
+	<Hotspot X="2208.817" Y="5401.58" Z="95.37985" />
+	<Hotspot X="2201.147" Y="5362.006" Z="95.37894" />
+	<Hotspot X="2200.371" Y="5321.683" Z="98.26962" />
+</Hotspots>
+</HBProfile>
