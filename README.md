@@ -4,17 +4,17 @@
 This is a set of Herbalism farming for Honorbuddy using Gatherbuddy2. Link to the main thread: https://www.thebuddyforum.com/honorbuddy-forum/gatherbuddy-2-profiles/274752-starlight-rose-zygor-path.html#post2321946
 ## How to use
 1. Download the desired profile.
-2. Open honorbuddy, for optimal results use Singular or Tuanha combat routines.
+2. Open Honorbuddy. for optimal results use Singular or Tuanha combat routines.
 3. Select Gatherbuddy2 as the botbase (the dropdown box allows you to change bots).
-4. Choose to load a profile from a file, and select the downloaded profile.
+4. Choose to load a profile from a file and select the downloaded profile.
 
-Note: Be sure to set the Sky Golem as the ground and flying mount if you would like to use it for gathering.
+Note: Set the Sky Golem as the ground and flying mount if you would like to use it for gathering.
 ## Changes
 View the changelog for detailed changes.
 ## Credits
 Main author: Verbanski
 ## License
-Copyright (c) 2016 Verbanski
+Copyright (c) 2016 zk120941
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
