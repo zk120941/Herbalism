@@ -25,6 +25,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Added Dreamleaf path.
 
-## 0.0.0 - 2016-10-13
+## [0.0.0] - 2016-10-13
 ### Initial Release
 - Starlight Rose path released.
